@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# Other things i dont need
+.DS_Store

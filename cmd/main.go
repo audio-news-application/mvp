@@ -1,5 +1,8 @@
 package main
 
+import "github.com/audio-news-application/mvp/pkg/scraper"
+
 func main() {
-    // TODO: Implement application logic
+	scraper.Scrape()
+	// TODO: Implement application logic
 }
